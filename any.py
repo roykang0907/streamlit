@@ -60,4 +60,4 @@ st.write('''
 ## Spavy is a browser that easily navigates spatial data in one place.
 ## From 3D and 2D files to Reality Capture files, rvt, skp, nwd, fbx, las, and more, you can easily see and explore different formats on a single platform.
 ''')
-st.link_button('Go to Spavy homepage', 'https://www.spavy.com/')
+st.link_button('Go to Spavy Homepage', 'https://www.spavy.com/')
